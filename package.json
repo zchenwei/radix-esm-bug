@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.0.0-radix-esm-bug-5df45c9-20230119211138",
     "@next/font": "13.1.2",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
