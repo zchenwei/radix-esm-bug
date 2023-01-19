@@ -1,7 +1,7 @@
 ```bash
 git clone git@github.com:zchenwei/radix-esm-bug.git
 cd radix-esm-bug/
-npm install && npm run dev
+yarn install && yarn dev
 ```
 
 Throws:
